@@ -1,6 +1,7 @@
 # Database-Security-and-Compliance-Implementation-with-security-controls-based-on-the-NIST-SP-800-53
 This project implements database security controls for an e-commerce platform using MySQL, Python, and GnuPG. It covers database creation, security controls, data encryption, and project management1. The repository contains scripts, documents, and presentations related to the project.
 
+### This project was in contribution with [@Ishan Prabhune](https://github.com/Ishan9100) and [@Harshal Sawant](https://github.com/harshalsawant29)
 
 ## Table of Contents
 1. [Overview](#overview)
